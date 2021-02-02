@@ -58,4 +58,32 @@
                 />
   </url>
   
+  <url>
+    <loc>https://amirvincent64.github.io/ch/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirvincent64.github.io/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="https://amirvincent64.github.io/ch/search/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://amirvincent64.github.io/ch/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirvincent64.github.io/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="https://amirvincent64.github.io/ch/archives/"
+                />
+  </url>
+  
 </urlset>
