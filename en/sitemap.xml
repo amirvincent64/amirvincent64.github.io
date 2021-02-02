@@ -3,17 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://amirvincent64.github.io/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ch"
-                href="https://amirvincent64.github.io/ch/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://amirvincent64.github.io/categories/"
-                />
+    <loc>https://amirvincent64.github.io/posts/example/</loc>
   </url>
   
   <url>
@@ -28,6 +18,24 @@
                 hreflang="en"
                 href="https://amirvincent64.github.io/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://amirvincent64.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="https://amirvincent64.github.io/ch/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirvincent64.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://amirvincent64.github.io/posts/</loc>
   </url>
   
   <url>
