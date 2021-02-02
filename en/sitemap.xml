@@ -27,8 +27,8 @@
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ch"
-                href="https://amirvincent64.github.io/ch/"
+                hreflang="zh-hant"
+                href="https://amirvincent64.github.io/zh-hant/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -55,6 +55,16 @@
   <url>
     <loc>https://amirvincent64.github.io/posts/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://amirvincent64.github.io/zh-hant/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirvincent64.github.io/posts/"
+                />
   </url>
   
   <url>
@@ -62,8 +72,8 @@
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ch"
-                href="https://amirvincent64.github.io/ch/series/"
+                hreflang="zh-hant"
+                href="https://amirvincent64.github.io/zh-hant/series/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -77,8 +87,8 @@
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ch"
-                href="https://amirvincent64.github.io/ch/tags/"
+                hreflang="zh-hant"
+                href="https://amirvincent64.github.io/zh-hant/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -92,8 +102,8 @@
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ch"
-                href="https://amirvincent64.github.io/ch/categories/"
+                hreflang="zh-hant"
+                href="https://amirvincent64.github.io/zh-hant/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -145,16 +155,76 @@
   <url>
     <loc>https://amirvincent64.github.io/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://amirvincent64.github.io/zh-hant/tags/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirvincent64.github.io/tags/privacy/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://amirvincent64.github.io/about/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://amirvincent64.github.io/zh-hant/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirvincent64.github.io/about/"
+                />
   </url>
   
   <url>
     <loc>https://amirvincent64.github.io/posts/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://amirvincent64.github.io/zh-hant/posts/rich-content/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirvincent64.github.io/posts/rich-content/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://amirvincent64.github.io/projects/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://amirvincent64.github.io/zh-hant/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirvincent64.github.io/projects/"
+                />
   </url>
   
   <url>
     <loc>https://amirvincent64.github.io/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://amirvincent64.github.io/zh-hant/tags/shortcodes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirvincent64.github.io/tags/shortcodes/"
+                />
   </url>
   
   <url>
@@ -190,8 +260,8 @@
     <loc>https://amirvincent64.github.io/archives/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="ch"
-                href="https://amirvincent64.github.io/ch/archives/"
+                hreflang="zh-hant"
+                href="https://amirvincent64.github.io/zh-hant/archives/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -204,8 +274,8 @@
     <loc>https://amirvincent64.github.io/search/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="ch"
-                href="https://amirvincent64.github.io/ch/search/"
+                hreflang="zh-hant"
+                href="https://amirvincent64.github.io/zh-hant/search/"
                 />
     <xhtml:link
                 rel="alternate"
