@@ -5,19 +5,18 @@
     <link>https://amirvincent64.github.io/zh-hant/</link>
     <description>Recent content on amir.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://amirvincent64.github.io/zh-hant/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Rich Content</title>
-      <link>https://amirvincent64.github.io/zh-hant/about/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Markdown Syntax Guide</title>
+      <link>https://amirvincent64.github.io/zh-hant/projects/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://amirvincent64.github.io/zh-hant/about/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
-&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;</description>
+      <guid>https://amirvincent64.github.io/zh-hant/projects/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -26,16 +25,6 @@
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://amirvincent64.github.io/zh-hant/posts/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
-&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;</description>
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>https://amirvincent64.github.io/zh-hant/projects/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://amirvincent64.github.io/zh-hant/projects/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
 &lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;</description>
     </item>
@@ -56,6 +45,19 @@
       
       <guid>https://amirvincent64.github.io/zh-hant/archives/</guid>
       <description>archives</description>
+    </item>
+    
+    <item>
+      <title>關於我</title>
+      <link>https://amirvincent64.github.io/zh-hant/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amirvincent64.github.io/zh-hant/about/</guid>
+      <description> 一位學生愛好作業系統、資訊科學、社會學，喜歡文字介面、FOSS、自由。
+ 技能 使用過的：
+ Python3 C HTML Node.js | NPM MariaDB | MySQL | Portage | SQL Docker JSON | XML Git | Repo RaspberryPi Hugo | Markdown | HackMD Scripting | Bash Minecraft Server  工具 使用過的：
+ Gentoo | Arch | etc Vi(m) | VSCode VirtualBox | VMWare BurpSuite Nmap WireShark   聯絡我 Email 歡迎在下方與我聯繫 :-)
+echo YW1pcnZpbmNlbnQ2NEB5YWhvby5jb20K | base64 -d </description>
     </item>
     
   </channel>
