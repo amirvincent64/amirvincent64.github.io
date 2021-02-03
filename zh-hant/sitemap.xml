@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://amirvincent64.github.io/zh-hant/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-02T04:33:28+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +14,36 @@
                 rel="alternate"
                 hreflang="zh-hant"
                 href="https://amirvincent64.github.io/zh-hant/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://amirvincent64.github.io/zh-hant/posts/blank/</loc>
+    <lastmod>2021-02-02T04:33:28+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirvincent64.github.io/posts/blank/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://amirvincent64.github.io/zh-hant/posts/blank/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://amirvincent64.github.io/zh-hant/posts/</loc>
+    <lastmod>2021-02-02T04:33:28+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirvincent64.github.io/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://amirvincent64.github.io/zh-hant/posts/"
                 />
   </url>
   

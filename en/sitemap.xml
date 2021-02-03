@@ -35,6 +35,16 @@
   <url>
     <loc>https://amirvincent64.github.io/posts/</loc>
     <lastmod>2021-02-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://amirvincent64.github.io/zh-hant/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirvincent64.github.io/posts/"
+                />
   </url>
   
   <url>
@@ -58,13 +68,18 @@
   </url>
   
   <url>
-    <loc>https://amirvincent64.github.io/posts/mypost-%E8%A4%87%E8%A3%BD/</loc>
+    <loc>https://amirvincent64.github.io/posts/blank/</loc>
     <lastmod>2021-02-02T04:33:28+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amirvincent64.github.io/posts/mypost/</loc>
-    <lastmod>2021-02-02T04:33:28+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://amirvincent64.github.io/zh-hant/posts/blank/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirvincent64.github.io/posts/blank/"
+                />
   </url>
   
   <url>
