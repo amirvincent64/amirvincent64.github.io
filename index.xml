@@ -20,21 +20,12 @@
     </item>
     
     <item>
-      <title>2021 Taipei International Animation Festival-Notes</title>
+      <title>2021台北國際動漫節—小記</title>
       <link>https://amirvincent64.github.io/posts/2021-02-05-notes-taipei-international-comics-and-animation-festival/</link>
       <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://amirvincent64.github.io/posts/2021-02-05-notes-taipei-international-comics-and-animation-festival/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Record the experience and experience of going to the 2021 Taipei International Animation Festival&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Build Website on Github by Hugo (WIP)</title>
-      <link>https://amirvincent64.github.io/posts/2021-02-03-run-hugo-on-github/</link>
-      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://amirvincent64.github.io/posts/2021-02-03-run-hugo-on-github/</guid>
-      <description>&lt;p&gt;A tutorial about how to install and deploy your Hugo site on Github Pages&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;em&gt;紀錄去2021台北國際動漫節所發生經歷及心得&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -56,18 +47,6 @@
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://amirvincent64.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://amirvincent64.github.io/about/</guid>
-      <description>a Student having interests in OS, Information Science, Sociology ; loves Command Line, FOSS, Freedom.
- Skills used:
- Python3 C HTML Node.js | NPM MariaDB | MySQL | Portage | SQL Docker JSON | XML Git | Repo RaspberryPi Hugo | Markdown | HackMD Scripting | Bash Minecraft Server  Tools used:
- Gentoo | Arch | etc Vi(m) | VSCode VirtualBox | VMWare BurpSuite Nmap WireShark   Contact Me Email Feel free to contact to me at :-)</description>
-    </item>
-    
-    <item>
       <title>Archive</title>
       <link>https://amirvincent64.github.io/archives.fr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -77,16 +56,16 @@
     </item>
     
     <item>
-      <title>Archive</title>
-      <link>https://amirvincent64.github.io/archives/</link>
+      <title>SearchL2</title>
+      <link>https://amirvincent64.github.io/search.fr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://amirvincent64.github.io/archives/</guid>
-      <description>archives</description>
+      <guid>https://amirvincent64.github.io/search.fr/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Search</title>
+      <title>搜尋</title>
       <link>https://amirvincent64.github.io/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -95,12 +74,25 @@
     </item>
     
     <item>
-      <title>SearchL2</title>
-      <link>https://amirvincent64.github.io/search.fr/</link>
+      <title>歸檔</title>
+      <link>https://amirvincent64.github.io/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://amirvincent64.github.io/search.fr/</guid>
-      <description></description>
+      <guid>https://amirvincent64.github.io/archives/</guid>
+      <description>archives</description>
+    </item>
+    
+    <item>
+      <title>關於我</title>
+      <link>https://amirvincent64.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amirvincent64.github.io/about/</guid>
+      <description> 一位學生愛好作業系統、資訊科學、社會學，喜歡文字介面、FOSS、自由。
+ 技能 使用過的：
+ Python3 C HTML Node.js | NPM MariaDB | MySQL | Portage | SQL Docker JSON | XML Git | Repo RaspberryPi Hugo | Markdown | HackMD Scripting | Bash Minecraft Server  工具 使用過的：
+ Gentoo | Arch | etc Vi(m) | VSCode VirtualBox | VMWare BurpSuite Nmap WireShark   聯絡我 Email 歡迎在下方與我聯繫 :-)
+echo YW1pcnZpbmNlbnQ2NEB5YWhvby5jb20K | base64 -d </description>
     </item>
     
   </channel>
