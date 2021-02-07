@@ -20,5 +20,17 @@
       <description>&lt;p&gt;&lt;em&gt;Record the experience and experience of going to the 2021 Taipei International Animation Festival&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>About</title>
+      <link>https://amirvincent64.github.io/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amirvincent64.github.io/en/about/</guid>
+      <description>a Student having interests in OS, Information Science, Sociology ; loves Command Line, FOSS, Freedom.
+ Skills used:
+ Python3 C HTML Node.js | NPM MariaDB | MySQL | Portage | SQL Docker JSON | XML Git | Repo RaspberryPi Hugo | Markdown | HackMD Scripting | Bash Minecraft Server  Tools used:
+ Gentoo | Arch | etc Vi(m) | VSCode VirtualBox | VMWare BurpSuite Nmap WireShark   Contact Me Email Feel free to contact to me at :-)</description>
+    </item>
+    
   </channel>
 </rss>
