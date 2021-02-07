@@ -78,6 +78,66 @@
   </url>
   
   <url>
+    <loc>https://amirvincent64.github.io/en/posts/2021-02-03-run-hugo-on-github/</loc>
+    <lastmod>2021-02-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://amirvincent64.github.io/zh-hant/posts/2021-02-03-run-hugo-on-github/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirvincent64.github.io/en/posts/2021-02-03-run-hugo-on-github/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://amirvincent64.github.io/en/tags/github/</loc>
+    <lastmod>2021-02-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://amirvincent64.github.io/zh-hant/tags/github/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirvincent64.github.io/en/tags/github/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://amirvincent64.github.io/en/tags/hugo/</loc>
+    <lastmod>2021-02-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://amirvincent64.github.io/zh-hant/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirvincent64.github.io/en/tags/hugo/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://amirvincent64.github.io/en/tags/tutorial/</loc>
+    <lastmod>2021-02-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://amirvincent64.github.io/zh-hant/tags/tutorial/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirvincent64.github.io/en/tags/tutorial/"
+                />
+  </url>
+  
+  <url>
     <loc>https://amirvincent64.github.io/en/posts/blank/</loc>
     <lastmod>2021-02-02T04:33:28+08:00</lastmod>
     <xhtml:link
