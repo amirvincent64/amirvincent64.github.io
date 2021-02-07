@@ -3,8 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://amirvincent64.github.io/zh-hant/posts/2021-02-05-notes-taipei-international-comics-and-animation-festival/</loc>
+    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirvincent64.github.io/posts/2021-02-05-notes-taipei-international-comics-and-animation-festival/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://amirvincent64.github.io/zh-hant/posts/2021-02-05-notes-taipei-international-comics-and-animation-festival/"
+                />
+  </url>
+  
+  <url>
     <loc>https://amirvincent64.github.io/zh-hant/</loc>
-    <lastmod>2021-02-02T04:33:28+08:00</lastmod>
+    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,6 +30,51 @@
                 hreflang="zh-hant"
                 href="https://amirvincent64.github.io/zh-hant/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://amirvincent64.github.io/zh-hant/posts/</loc>
+    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirvincent64.github.io/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://amirvincent64.github.io/zh-hant/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://amirvincent64.github.io/zh-hant/tags/</loc>
+    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirvincent64.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://amirvincent64.github.io/zh-hant/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://amirvincent64.github.io/zh-hant/tags/%E5%8B%95%E6%BC%AB/</loc>
+    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amirvincent64.github.io/zh-hant/tags/%E5%8B%95%E6%BC%AB%E7%AF%80/</loc>
+    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amirvincent64.github.io/zh-hant/tags/%E5%8F%B0%E5%8C%97/</loc>
+    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -29,21 +89,6 @@
                 rel="alternate"
                 hreflang="zh-hant"
                 href="https://amirvincent64.github.io/zh-hant/posts/blank/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://amirvincent64.github.io/zh-hant/posts/</loc>
-    <lastmod>2021-02-02T04:33:28+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://amirvincent64.github.io/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant"
-                href="https://amirvincent64.github.io/zh-hant/posts/"
                 />
   </url>
   
@@ -149,21 +194,6 @@
                 rel="alternate"
                 hreflang="zh-hant"
                 href="https://amirvincent64.github.io/zh-hant/categories/syntax/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://amirvincent64.github.io/zh-hant/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://amirvincent64.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant"
-                href="https://amirvincent64.github.io/zh-hant/tags/"
                 />
   </url>
   
