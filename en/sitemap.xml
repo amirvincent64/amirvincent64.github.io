@@ -285,4 +285,18 @@
                 />
   </url>
   
+  <url>
+    <loc>https://amirvincent64.github.io/en/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://amirvincent64.github.io/zh-hant/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirvincent64.github.io/en/search/"
+                />
+  </url>
+  
 </urlset>

@@ -296,6 +296,16 @@
   
   <url>
     <loc>https://amirvincent64.github.io/zh-hant/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirvincent64.github.io/en/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://amirvincent64.github.io/zh-hant/search/"
+                />
   </url>
   
   <url>
