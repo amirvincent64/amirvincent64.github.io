@@ -220,6 +220,16 @@
   
   <url>
     <loc>https://amirvincent64.github.io/zh-hant/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirvincent64.github.io/en/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://amirvincent64.github.io/zh-hant/archives/"
+                />
   </url>
   
   <url>
