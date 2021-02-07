@@ -3,6 +3,81 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://amirvincent64.github.io/en/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://amirvincent64.github.io/zh-hant/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirvincent64.github.io/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://amirvincent64.github.io/en/tags/gentoo/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://amirvincent64.github.io/zh-hant/tags/gentoo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirvincent64.github.io/en/tags/gentoo/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://amirvincent64.github.io/en/posts/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://amirvincent64.github.io/zh-hant/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirvincent64.github.io/en/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://amirvincent64.github.io/en/tags/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://amirvincent64.github.io/zh-hant/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirvincent64.github.io/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://amirvincent64.github.io/en/posts/2021-02-07-wow-gentoo/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://amirvincent64.github.io/zh-hant/posts/2021-02-07-wow-gentoo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirvincent64.github.io/en/posts/2021-02-07-wow-gentoo/"
+                />
+  </url>
+  
+  <url>
     <loc>https://amirvincent64.github.io/en/posts/2021-02-05-notes-taipei-international-comics-and-animation-festival/</loc>
     <lastmod>2021-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -18,21 +93,6 @@
   </url>
   
   <url>
-    <loc>https://amirvincent64.github.io/en/</loc>
-    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant"
-                href="https://amirvincent64.github.io/zh-hant/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://amirvincent64.github.io/en/"
-                />
-  </url>
-  
-  <url>
     <loc>https://amirvincent64.github.io/en/tags/animation/</loc>
     <lastmod>2021-02-05T00:00:00+00:00</lastmod>
   </url>
@@ -40,36 +100,6 @@
   <url>
     <loc>https://amirvincent64.github.io/en/tags/animation-festival/</loc>
     <lastmod>2021-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amirvincent64.github.io/en/posts/</loc>
-    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant"
-                href="https://amirvincent64.github.io/zh-hant/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://amirvincent64.github.io/en/posts/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://amirvincent64.github.io/en/tags/</loc>
-    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant"
-                href="https://amirvincent64.github.io/zh-hant/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://amirvincent64.github.io/en/tags/"
-                />
   </url>
   
   <url>

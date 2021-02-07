@@ -20,6 +20,16 @@
   <url>
     <loc>https://amirvincent64.github.io/zh-hant/tags/gentoo/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirvincent64.github.io/en/tags/gentoo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://amirvincent64.github.io/zh-hant/tags/gentoo/"
+                />
   </url>
   
   <url>
@@ -55,6 +65,16 @@
   <url>
     <loc>https://amirvincent64.github.io/zh-hant/posts/2021-02-07-wow-gentoo/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirvincent64.github.io/en/posts/2021-02-07-wow-gentoo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://amirvincent64.github.io/zh-hant/posts/2021-02-07-wow-gentoo/"
+                />
   </url>
   
   <url>

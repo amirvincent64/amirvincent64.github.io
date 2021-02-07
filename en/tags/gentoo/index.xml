@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gentoo on amir.</title>
+    <link>https://amirvincent64.github.io/en/tags/gentoo/</link>
+    <description>Recent content in Gentoo on amir.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://amirvincent64.github.io/en/tags/gentoo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WOW! Gentoo!</title>
+      <link>https://amirvincent64.github.io/en/posts/2021-02-07-wow-gentoo/</link>
+      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://amirvincent64.github.io/en/posts/2021-02-07-wow-gentoo/</guid>
+      <description>&lt;p&gt;&lt;em&gt;wowowowowowowow OwO&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
