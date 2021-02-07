@@ -5,10 +5,20 @@
     <link>https://amirvincent64.github.io/zh-hant/</link>
     <description>Recent content on amir.</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Fri, 05 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://amirvincent64.github.io/zh-hant/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021 Taipei International Animation Festival-Notes</title>
+      <link>https://amirvincent64.github.io/zh-hant/posts/2021-02-05-notes-taipei-international-comics-and-animation-festival.2/</link>
+      <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://amirvincent64.github.io/zh-hant/posts/2021-02-05-notes-taipei-international-comics-and-animation-festival.2/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Record the experience and experience of going to the 2021 Taipei International Animation Festival&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>2021台北國際動漫節—小記</title>
@@ -35,6 +45,24 @@
       
       <guid>https://amirvincent64.github.io/zh-hant/projects/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>https://amirvincent64.github.io/zh-hant/archives.fr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amirvincent64.github.io/zh-hant/archives.fr/</guid>
+      <description>archives</description>
+    </item>
+    
+    <item>
+      <title>SearchL2</title>
+      <link>https://amirvincent64.github.io/zh-hant/search.fr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amirvincent64.github.io/zh-hant/search.fr/</guid>
+      <description></description>
     </item>
     
     <item>
