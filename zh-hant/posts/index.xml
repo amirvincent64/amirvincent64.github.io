@@ -6,10 +6,19 @@
     <description>Recent content in Posts on amir.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://amirvincent64.github.io/zh-hant/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>哇！Gentoo</title>
+      <link>https://amirvincent64.github.io/zh-hant/posts/2021-02-07-wow-gentoo/</link>
+      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://amirvincent64.github.io/zh-hant/posts/2021-02-07-wow-gentoo/</guid>
+      <description>&lt;p&gt;&lt;em&gt;wowowowowowowow OwO&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>2021台北國際動漫節—小記</title>
@@ -18,15 +27,6 @@
       
       <guid>https://amirvincent64.github.io/zh-hant/posts/2021-02-05-notes-taipei-international-comics-and-animation-festival/</guid>
       <description>&lt;p&gt;&lt;em&gt;紀錄去2021台北國際動漫節所發生經歷及心得&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>哇！Gentoo</title>
-      <link>https://amirvincent64.github.io/zh-hant/posts/2021-02-07-wow-gentoo/</link>
-      <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://amirvincent64.github.io/zh-hant/posts/2021-02-07-wow-gentoo/</guid>
-      <description>&lt;p&gt;&lt;em&gt;wowowowowowowow OwO&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
