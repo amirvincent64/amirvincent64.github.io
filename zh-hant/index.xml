@@ -6,10 +6,19 @@
     <description>Recent content on amir.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://amirvincent64.github.io/zh-hant/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>文章收藏-台灣文化</title>
+      <link>https://amirvincent64.github.io/zh-hant/posts/taiwan-culture-posts-collection/</link>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://amirvincent64.github.io/zh-hant/posts/taiwan-culture-posts-collection/</guid>
+      <description>&lt;p&gt;&lt;em&gt;收集有關台灣文化的文章&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>哇！Gentoo！</title>
@@ -18,15 +27,6 @@
       
       <guid>https://amirvincent64.github.io/zh-hant/posts/2021-02-07-wow-gentoo/</guid>
       <description>&lt;p&gt;&lt;em&gt;wowowowowowowow OwO&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>文章收藏-台灣文化</title>
-      <link>https://amirvincent64.github.io/zh-hant/posts/taiwan-culture-posts-collection/</link>
-      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://amirvincent64.github.io/zh-hant/posts/taiwan-culture-posts-collection/</guid>
-      <description>&lt;p&gt;&lt;em&gt;收集有關台灣文化的文章&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
