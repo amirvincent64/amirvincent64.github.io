@@ -58,8 +58,8 @@
   "keywords": [
     "LFS"
   ],
-  "articleBody": "My notes about how to Linux Form Scratch (10.0)\n1. download virtualbox and install it: https://www.virtualbox.org/wiki/Downloads\n2. create host(arch) vm i use :\n8G .vdi image\nUEFI: ON\nfirst booting: 1 $# timedatectl set-ntp true\t#NTP on $# cfdisk\t#tui partiton select gpt\nmy setup:\n/dev/sda1 512M for boot\n/dev/sda2 5G for host (will remove the host later)\nfree: 2.5G\n$# lsblk\t#for disk check $# mkfs.fat -F 32 /dev/sda1\t#make sda1 as FAT32 $# mkfs.ext4 /dev/sda2\t#make sda2 as ext4 $# mount /dev/sda2 /mnt\t#mount it as root $# mkdir -p /mnt/boot/efi\t#create efi boot folder $# mount /dev/sda1 /mnt/boot/efi\t#mount it as efi boot $# pacstrap /mnt base linux linux-firmware sudo grub efibootmgr networkmanager intel-ucode vim $# genfstab -U /mnt  /mnt/etc/fstab $# arch-chroot /mnt in chroot:\n$# ln -sf /usr/share/zoneinfo/America/New_York /etc/localtime $# hwclock --systohc $# vim /etc/locale.gen uncomment #en_US.UTF-8 UTF-8 by remove #\nthen :wq\n$# locale-gen $# echo \"LANG=en_US.UTF-8\"  /etc/locale.conf $# systemctl enable NetworkManager $# useradd -m -G wheel -s /bin/bash host $# visudo uncomment # %wheel ALL=(ALL) ALL by remove #\nthen :wq\n$# passwd host\t#Set New Password $# grub-install /dev/sda $# grub-mkconfig -o /boot/grub/grub.cfg $# reboot second booting:   refer: https://www.youtube.com/watch?v=Ctp-5MRgxGA ↩︎\n  ",
-  "wordCount" : "199",
+  "articleBody": "My notes about how to Linux Form Scratch (10.0)\n1. download virtualbox and install it: https://www.virtualbox.org/wiki/Downloads\n2. create host(arch) vm i use :\n8G .vdi image\nUEFI: ON\nfirst booting: 1 $# timedatectl set-ntp true\t#NTP on $# cfdisk\t#tui partiton select gpt\nmy setup:\n/dev/sda1 512M for boot\n/dev/sda2 5G for host (will remove the host later)\nfree: 2.5G\n$# lsblk\t#for disk check $# mkfs.fat -F 32 /dev/sda1\t#make sda1 as FAT32 $# mkfs.ext4 /dev/sda2\t#make sda2 as ext4 $# mount /dev/sda2 /mnt\t#mount it as root $# mkdir -p /mnt/boot/efi\t#create efi boot folder $# mount /dev/sda1 /mnt/boot/efi\t#mount it as efi boot $# pacstrap /mnt base linux linux-firmware sudo grub efibootmgr networkmanager intel-ucode vim $# genfstab -U /mnt  /mnt/etc/fstab $# arch-chroot /mnt in chroot:\n$# ln -sf /usr/share/zoneinfo/America/New_York /etc/localtime $# hwclock --systohc $# vim /etc/locale.gen uncomment #en_US.UTF-8 UTF-8 by remove #\nthen :wq\n$# locale-gen $# echo \"LANG=en_US.UTF-8\"  /etc/locale.conf $# systemctl enable NetworkManager $# useradd -m -G wheel -s /bin/bash host $# visudo uncomment # %wheel ALL=(ALL) ALL by remove #\nthen :wq\n$# passwd host\t#Set New Password $# grub-install /dev/sda $# grub-mkconfig -o /boot/grub/grub.cfg $# exit $# reboot second booting: select Arch Linux\nthen login host\nand enter the password\n3. configure host curl -s https://github.com/viktomas/linux-from-scratch/raw/master/version-check.sh | bash -s   refer: https://www.youtube.com/watch?v=Ctp-5MRgxGA ↩︎\n  ",
+  "wordCount" : "220",
   "inLanguage": "en",
   "datePublished": "2021-02-16T00:00:00Z",
   "dateModified": "2021-02-16T00:00:00Z",
@@ -174,7 +174,7 @@
     </h1>
     <div class="post-meta">
 
-February 16, 2021&nbsp;·&nbsp;1 min&nbsp;·&nbsp;amir.
+February 16, 2021&nbsp;·&nbsp;2 min&nbsp;·&nbsp;amir.
 
     </div>
   </header> 
@@ -190,7 +190,8 @@ February 16, 2021&nbsp;·&nbsp;1 min&nbsp;·&nbsp;amir.
             <li>
         <a href="#first-booting-1" aria-label="first booting: 1">first booting: <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></a></li><li>
         <a href="#second-booting" aria-label="second booting:">second booting:</a></li></ul>
-</li></ul>
+    </li><li>
+        <a href="#3-configure-host" aria-label="3. configure host">3. configure host</a></li></ul>
       </div>
     </details>
   </div>
@@ -235,9 +236,15 @@ $# visudo
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$# passwd host	<span style="color:#75715e">#Set New Password</span>
 </code></pre></div><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$# grub-install /dev/sda
 $# grub-mkconfig -o /boot/grub/grub.cfg
+</code></pre></div><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$# exit
 $# reboot
 </code></pre></div><h3 id="second-booting">second booting:<a hidden class="anchor" aria-hidden="true" href="#second-booting">#</a></h3>
-<section class="footnotes" role="doc-endnotes">
+<p>select <code>Arch Linux</code></p>
+<p>then login <code>host</code></p>
+<p>and enter the password</p>
+<h2 id="3-configure-host">3. configure host<a hidden class="anchor" aria-hidden="true" href="#3-configure-host">#</a></h2>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">curl -s https://github.com/viktomas/linux-from-scratch/raw/master/version-check.sh | bash -s
+</code></pre></div><section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
 <li id="fn:1" role="doc-endnote">
