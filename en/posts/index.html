@@ -206,6 +206,36 @@ February 2, 2021&nbsp;·&nbsp;0 min&nbsp;·&nbsp;Theme PaperMod
 </footer>
   <a class="entry-link" aria-label="post link to Blank" href="https://amirvincent64.github.io/en/posts/blank/"></a>
 </article>
+<article class="post-entry"> 
+
+  <header class="entry-header">
+    <h2>
+      
+    </h2>
+  </header>
+  <section class="entry-content">
+    <p>install virtualbox
+create host(arch) vm
+i use :
+8G .vdi image
+#$ timedatectl set-ntp true // ntp on
+#$ cfdisk // partitoning
+select gpt
+my setup:
+/dev/sda1 512M for boot
+/dev/sda2 5G for host (will remove the host later)
+free: 2.5G
+#$ lsblk // for disk check
+#$ mkfs.fat -F 32 /dev/sda1 // make sda1 as FAT32
+#$ mkfs.ext4 /dev/sda2 // make sda2 as ext4
+#$ mount /dev/sda2 /mnt // mount it as root...</p>
+  </section>
+  <footer class="entry-footer">
+
+1 min&nbsp;·&nbsp;Theme PaperMod
+</footer>
+  <a class="entry-link" aria-label="post link to " href="https://amirvincent64.github.io/en/posts/2021-02-16-notes-10.0-linux-from-scratch/"></a>
+</article>
 
     </main><footer class="footer">
     <span>&copy; 2021 <a href="https://amirvincent64.github.io/en/">amir.</a></span>
@@ -224,6 +254,8 @@ February 2, 2021&nbsp;·&nbsp;0 min&nbsp;·&nbsp;Theme PaperMod
 
 
 
+<script defer src="https://amirvincent64.github.io/assets/js/highlight.min.27cd435cc9ed6abb4b496581b151804f79f366c412620272bb94e2f5f598ebcc.js" integrity="sha256-J81DXMntartLSWWBsVGAT3nzZsQSYgJyu5Ti9fWY68w="
+    onload="hljs.initHighlightingOnLoad();"></script>
 <script>
     window.onload = function () {
         if (localStorage.getItem("menu-scroll-position")) {
