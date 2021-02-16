@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://amirvincent64.github.io/en/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hant"
@@ -14,46 +14,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://amirvincent64.github.io/en/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://amirvincent64.github.io/en/tags/lfs/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amirvincent64.github.io/en/posts/2021-02-16-notes-10.0-linux-from-scratch/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amirvincent64.github.io/en/posts/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant"
-                href="https://amirvincent64.github.io/zh-hant/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://amirvincent64.github.io/en/posts/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://amirvincent64.github.io/en/tags/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant"
-                href="https://amirvincent64.github.io/zh-hant/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://amirvincent64.github.io/en/tags/"
                 />
   </url>
   
@@ -69,6 +29,36 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://amirvincent64.github.io/en/tags/gentoo/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://amirvincent64.github.io/en/posts/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://amirvincent64.github.io/zh-hant/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirvincent64.github.io/en/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://amirvincent64.github.io/en/tags/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant"
+                href="https://amirvincent64.github.io/zh-hant/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://amirvincent64.github.io/en/tags/"
                 />
   </url>
   
