@@ -58,8 +58,8 @@
   "keywords": [
     "LFS"
   ],
-  "articleBody": "My notes about how to Linux Form Scratch (10.0)\n1. download virtualbox and install it: https://www.virtualbox.org/wiki/Downloads\n2. create host(arch) vm i use :\n8G .vdi image\nfirst booting: 1 $# timedatectl set-ntp true\t#NTP on $# cfdisk\t#tui partiton select gpt\nmy setup:\n/dev/sda1 512M for boot\n/dev/sda2 5G for host (will remove the host later)\nfree: 2.5G\n$# lsblk\t#for disk check $# mkfs.fat -F 32 /dev/sda1\t#make sda1 as FAT32 $# mkfs.ext4 /dev/sda2\t#make sda2 as ext4 $# mount /dev/sda2 /mnt\t#mount it as root $# mkdir -p /mnt/boot/efi\t#create efi boot folder $# mount /dev/sda1 /mnt/boot/efi\t#mount it as efi boot $# pacstrap /mnt base linux linux-firmware sudo grub efibootmgr networkmanager intel-ucode vim $# genfstab -U /mnt  /mnt/etc/fstab $# arch-chroot /mnt in chroot:\n$# ln -sf /usr/share/zoneinfo/America/New_York /etc/localtime $# hwclock --systohc $# vim /etc/locale.gen remove ‘#’ at line #en_US.UTF-8 UTF-8\nthen :wq\n$# locale-gen $# echo \"LANG=en_US.UTF-8\"  /etc/locale.conf $# systemctl enable NetworkManager   refer: https://www.youtube.com/watch?v=Ctp-5MRgxGA ↩︎\n  ",
-  "wordCount" : "160",
+  "articleBody": "My notes about how to Linux Form Scratch (10.0)\n1. download virtualbox and install it: https://www.virtualbox.org/wiki/Downloads\n2. create host(arch) vm i use :\n8G .vdi image\nfirst booting: 1 $# timedatectl set-ntp true\t#NTP on $# cfdisk\t#tui partiton select gpt\nmy setup:\n/dev/sda1 512M for boot\n/dev/sda2 5G for host (will remove the host later)\nfree: 2.5G\n$# lsblk\t#for disk check $# mkfs.fat -F 32 /dev/sda1\t#make sda1 as FAT32 $# mkfs.ext4 /dev/sda2\t#make sda2 as ext4 $# mount /dev/sda2 /mnt\t#mount it as root $# mkdir -p /mnt/boot/efi\t#create efi boot folder $# mount /dev/sda1 /mnt/boot/efi\t#mount it as efi boot $# pacstrap /mnt base linux linux-firmware sudo grub efibootmgr networkmanager intel-ucode vim $# genfstab -U /mnt  /mnt/etc/fstab $# arch-chroot /mnt in chroot:\n$# ln -sf /usr/share/zoneinfo/America/New_York /etc/localtime $# hwclock --systohc $# vim /etc/locale.gen uncomment #en_US.UTF-8 UTF-8 by remove #\nthen :wq\n$# locale-gen $# echo \"LANG=en_US.UTF-8\"  /etc/locale.conf $# systemctl enable NetworkManager $# useradd -m -G wheel -s /bin/bash host $# visudo then uncomment # %wheel ALL=(ALL) ALL by remove #\n  refer: https://www.youtube.com/watch?v=Ctp-5MRgxGA ↩︎\n  ",
+  "wordCount" : "179",
   "inLanguage": "en",
   "datePublished": "2021-02-16T00:00:00Z",
   "dateModified": "2021-02-16T00:00:00Z",
@@ -221,12 +221,15 @@ $# arch-chroot /mnt
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$# ln -sf /usr/share/zoneinfo/America/New_York /etc/localtime
 $# hwclock --systohc
 </code></pre></div><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$# vim /etc/locale.gen
-</code></pre></div><p>remove &lsquo;#&rsquo; at line <code>#en_US.UTF-8 UTF-8</code></p>
+</code></pre></div><p>uncomment <code>#en_US.UTF-8 UTF-8</code> by remove <code>#</code></p>
 <p>then <code>:wq</code></p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$# locale-gen
 $# echo <span style="color:#e6db74">&#34;LANG=en_US.UTF-8&#34;</span> &gt;&gt; /etc/locale.conf
 </code></pre></div><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$# systemctl enable NetworkManager
-</code></pre></div><section class="footnotes" role="doc-endnotes">
+</code></pre></div><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$# useradd -m -G wheel -s /bin/bash host
+$# visudo
+</code></pre></div><p>then uncomment <code># %wheel ALL=(ALL) ALL</code> by remove <code>#</code></p>
+<section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
 <li id="fn:1" role="doc-endnote">
