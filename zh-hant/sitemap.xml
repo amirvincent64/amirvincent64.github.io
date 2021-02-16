@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://amirvincent64.github.io/zh-hant/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,38 +18,8 @@
   </url>
   
   <url>
-    <loc>https://amirvincent64.github.io/zh-hant/tags/lfs/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://amirvincent64.github.io/en/tags/lfs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant"
-                href="https://amirvincent64.github.io/zh-hant/tags/lfs/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://amirvincent64.github.io/zh-hant/posts/notes-10.0-linux-from-scratch/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://amirvincent64.github.io/en/posts/notes-10.0-linux-from-scratch/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant"
-                href="https://amirvincent64.github.io/zh-hant/posts/notes-10.0-linux-from-scratch/"
-                />
-  </url>
-  
-  <url>
     <loc>https://amirvincent64.github.io/zh-hant/posts/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -64,7 +34,7 @@
   
   <url>
     <loc>https://amirvincent64.github.io/zh-hant/tags/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
