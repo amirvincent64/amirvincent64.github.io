@@ -47,28 +47,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title></title>
-      <link>https://amirvincent64.github.io/en/posts/2021-02-16-notes-10.0-linux-from-scratch/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://amirvincent64.github.io/en/posts/2021-02-16-notes-10.0-linux-from-scratch/</guid>
-      <description>install virtualbox
-create host(arch) vm
-i use :
-8G .vdi image
-#$ timedatectl set-ntp true // ntp on
-#$ cfdisk // partitoning
-select gpt
-my setup:
-/dev/sda1 512M for boot
-/dev/sda2 5G for host (will remove the host later)
-free: 2.5G
-#$ lsblk // for disk check
-#$ mkfs.fat -F 32 /dev/sda1 // make sda1 as FAT32
-#$ mkfs.ext4 /dev/sda2 // make sda2 as ext4
-#$ mount /dev/sda2 /mnt // mount it as root</description>
-    </item>
-    
   </channel>
 </rss>
