@@ -6,7 +6,7 @@
     <description>Recent content in LFS on amir.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://amirvincent64.github.io/en/tags/lfs/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Linux From Scratch 10.1 Notes [Alpha]</title>
       <link>https://amirvincent64.github.io/en/posts/notes-10.1-linux-from-scratch/</link>
-      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://amirvincent64.github.io/en/posts/notes-10.1-linux-from-scratch/</guid>
       <description>&lt;p&gt;My notes about how to Linux From Scratch (10.1 Stable)&lt;/p&gt;</description>
